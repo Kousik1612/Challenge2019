@@ -1,4 +1,4 @@
-# Theatre Challenge 2019
+# Theatre Management - Problem Statements
 
 Delivery partners specify the rate of delivery and cost in following manner (All costs are in paise):
 
